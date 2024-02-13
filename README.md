@@ -9,6 +9,10 @@ This project implements a BERT-based Question Answering system using the SQuAD 2
 - Fine-Tuning
 - Natural Language Processing
 
+## Performance
+- F1 Score: 76.70
+- Exact Match (EM) Score: 73.85
+
 ## Usage
 1. Install required packages (`transformers`, `torch`, `tqdm`).
 2. Mount Google Drive and download SQuAD 2.0 dataset.
